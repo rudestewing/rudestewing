@@ -1,8 +1,11 @@
 {
   "name": "rudestewing",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "name card",
   "main": "index.js",
+  "bin": {
+    "cameronthompson": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
